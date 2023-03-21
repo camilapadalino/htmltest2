@@ -1,6 +1,18 @@
+html{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
 p{
-    color:rgb(70, 6, 112);
+    color:rgb(243, 239, 245);
 }
 h1{
     color:rgb(49, 6, 35);
+    font-size: 30px;
+    text-align: center;
+}
+p,li{
+    font-size:15px;
+    line-height: 2;
+    letter-spacing: 1;
+    border: 2px;
 }
