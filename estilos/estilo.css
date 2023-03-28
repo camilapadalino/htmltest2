@@ -3,22 +3,25 @@ html{
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 p,center{
-    color:rgb(243, 239, 245);
+    color:rgb(209, 24, 116);
 }
 h1{
-    color:rgb(49, 6, 35);
-    font-size: 30px;
+    color:rgb(90, 13, 64);
+    font-size: 50px;
     text-align: center;
 }
-p,li{
+li{
     font-size:15px;
     line-height: 2;
     letter-spacing: 1;
+    color:rgb(223, 30, 159)
     
 }
 body{
-    width:"600px";
+    width:" 600px ";
     margin: 0 auto;
-    background-color: indianred;
-    border: 5px solid pink ;
+    padding: 0 20px 20px 20px;
+    background-color: rgb(241, 176, 236);
+    border: 100px solid rgb(240, 112, 186) ;
+
 }
